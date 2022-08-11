@@ -1,0 +1,16 @@
+{
+  "name": "siaopai-h01",
+  "description": "Deploy",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "9a9e1b88-de01-11ec-9d64-0242ac120002"
+    }
+  },
+  "website": "https://github.com/masterleotaiwan/",
+  "repository": "https://github.com/masterleotaiwn/siaopai-h01",
+  "stack": "container"
+}
