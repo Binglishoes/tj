@@ -1,5 +1,5 @@
 {
-  "name": "siaopai-tj",
+  "name": "tj6",
   "description": "Deploy",
   "keywords": [
     "vless"
@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "669e1b88-de01-11ec-9d64-0242ac120002"
+      "value": "999e1b88-de01-11ec-9d64-0242ac120002"
     }
   },
-  "website": "https://github.com/masterleotaiwan/",
-  "repository": "https://github.com/masterleotaiwn/siaopai-tj",
+  "website": "https://github.com/Binglishoes/tj",
+  "repository": "https://github.com/Binglishoes/tj",
   "stack": "container"
 }
